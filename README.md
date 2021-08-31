@@ -1,2 +1,2 @@
 # LiveUserTracking
-Tracking user live location and save latitude and longitude in .plist
+Tracking user live location and save latitude,longitude in .plist
