@@ -20,6 +20,7 @@ class LocationManager: NSObject, CLLocationManagerDelegate {
 
     var afterResume : Bool!
     
+    
     //Create instance
     class var sharedInstance: LocationManager {
         struct Static {
